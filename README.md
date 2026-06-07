@@ -1,4 +1,4 @@
-# DocuMind 🧠📄
+# DocuMind
 **A production-quality RAG system for PDF question-answering — built free, runs locally.**
 
 Ask any question about any PDF and get accurate, grounded answers with source citations.
@@ -60,18 +60,7 @@ documind/
 └── .gitignore
 ```
 
----
 
-## Evaluation Results
-*(Fill in after completing Step 7)*
-
-| Metric | Value |
-|---|---|
-| Retrieval latency (avg) | ~XXX ms |
-| Precision@4 on 10-query test set | X/10 |
-| Hallucination rate: RAG vs direct LLM | ~X% vs ~X% |
-
----
 
 ## Key Design Decisions
 
